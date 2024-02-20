@@ -17,12 +17,10 @@ def listOfGasStations():
     return gasStationsNearby
 
 def gasLevelAlert():
-    milesToGasStationLow = random.uniform(1,25)
-    milesToGasStationQuarterTank = random.uniform(25.1,50)
+    milesToGasStationLow = round(random.uniform(1,25),1)
+    milesToGasStationQuarterTank = round(random.uniform(25.1,50),1)
 
     print(milesToGasStationLow)
     print(milesToGasStationQuarterTank)
 
-
-print(gasLevelGauge())
-print(listOfGasStations())
+gasLevelAlert()
