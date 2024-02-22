@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #Import Libraries Here
 import time
@@ -67,3 +68,5 @@ def gasLevelAlert():
 
 gasLevelAlert()
 
+=======
+>>>>>>> parent of 4a3857a (Merge branch 'betatestdev')
