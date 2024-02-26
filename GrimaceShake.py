@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 #Import Libraries Here
 import time
