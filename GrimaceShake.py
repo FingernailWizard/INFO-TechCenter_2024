@@ -67,9 +67,6 @@ def gasLevelAlert():
 
 gasLevelAlert()
 
-<<<<<<< HEAD
-=======
-
 print("\n*****************************************************************************")
 
 print("Weather Branch\n")
@@ -118,7 +115,3 @@ def vehicleRepsonseSystem():
               "Weather Conditions.")
         sleep(1.5)
         print("VRS Has Been Engaged Only Allowing You To Drive MAXmph")
-
-
-vehicleRepsonseSystem()
->>>>>>> betatestdev
